@@ -7,3 +7,4 @@ A program that prints all single digit numbers of base 10 starting from 0, follo
 Write a program that prints all possible combinations of single-digit numbers
 Write a program that prints all possible different combinations of two digits
 Write a program that prints all possible different combinations of three digits
+Write a program that prints all possible combinations of two two-digit numbers
